@@ -21,6 +21,8 @@ claude
 
 Claude Code reads the project instructions automatically. You do not need to paste a prompt.
 
+This project also includes local skill cards in `skills/`. They teach Claude Code how to handle voice, research, skepticism, and human-readable wording without depending on any external skill install.
+
 ### 3. Pick your scenario
 
 Tell Claude Code what you need:
@@ -45,6 +47,8 @@ Drop any supporting files into the `evidence/` folder:
 - Scope documentation
 
 Sanitize anything confidential first.
+
+Claude Code will use the `skills/` folder to pressure-test the evidence, flag weak claims, and keep the final language direct.
 
 ### 5. Run it
 

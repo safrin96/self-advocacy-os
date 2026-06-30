@@ -11,7 +11,8 @@ This is not a chatbot prompt. It is a reusable workspace where your evidence, yo
 3. **Drafts your ask** with a primary position and a fallback
 4. **Anticipates pushback** with likely objections and prepared responses
 5. **Lets you practice** by role-playing the decision-maker so you hear the hard questions before the real meeting
-6. **Saves everything** so you can revisit, revise, and reuse
+6. **Uses project skill cards** for voice, research, skepticism, and humanizing the final language
+7. **Saves everything** so you can revisit, revise, and reuse
 
 ## Three scenarios
 
@@ -95,6 +96,11 @@ self-advocacy-os/
   evidence/
     README.md                           <- What to put here
     (drop your files here)
+  skills/
+    voice-profile.md                    <- How your ask should sound
+    research.md                         <- How to evaluate evidence and gaps
+    skeptic.md                          <- How to pressure-test weak claims
+    humanizer.md                        <- How to make the final language sayable
   outputs/
     README.md                           <- What gets saved here
     (prep packets saved here)

@@ -15,11 +15,23 @@ A regular Claude chat is one prompt, one answer. You paste your background, get 
 A Claude Code project keeps everything connected:
 
 - **Standing instructions** (CLAUDE.md) tell Claude Code how to behave across every conversation: never invent accomplishments, flag weak proof, cite sources, save outputs.
+- **Skill cards** (`skills/`) define reusable working modes: voice profile, research, skeptic, and humanizer.
 - **Input files** hold your situation, evidence, and ask. You fill them in once. Claude Code reads them every time.
 - **Evidence files** are your supporting documentation. Claude Code reads across all of them to find patterns.
 - **Outputs** are saved as files you can revisit, revise, and reuse.
 
 The result: you build a case over time instead of starting from scratch every conversation.
+
+## The skill cards
+
+The project includes four local skill cards:
+
+- `voice-profile.md` keeps the output direct, specific, and in the user's voice
+- `research.md` separates strong proof from weak proof and missing evidence
+- `skeptic.md` pressure-tests objections, risk, unpaid extraction, and overclaiming
+- `humanizer.md` turns analysis into language someone can actually say in a meeting
+
+These are plain files inside the project. They travel with the download.
 
 ## The three workflows
 
