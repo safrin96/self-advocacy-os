@@ -139,4 +139,4 @@ Do not put passwords, Social Security numbers, or financial account details in a
 
 Created by Sumaiya Shrabony for the Women in Tech Summit 2026.
 
-Connect: [@thedata_ai.girl](https://instagram.com/thedata_ai.girl) | [Ground Truth on Substack](https://sumaiyashrabony.substack.com)
+Connect: [@thedata_ai.girl](https://instagram.com/thedata_ai.girl) | [Ground Truth on Substack](https://aibyshrabony.substack.com)
